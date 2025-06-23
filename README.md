@@ -29,7 +29,7 @@ El diseño se centra en una estructura relacional normalizada para evitar la red
 
 ## Instalación
 
-Para ejecutar este proyecto en un entorno local, sigue estos pasos:
+Para ejecutar este proyecto en un entorno local, podes usar estos pasos:
 
 1.  **Clonar el repositorio:**
     ```bash
@@ -37,7 +37,7 @@ Para ejecutar este proyecto en un entorno local, sigue estos pasos:
     cd tu-repositorio
     ```
 
-2.  **Crear un entorno virtual (recomendado):**
+2.  **Crear un entorno virtual:**
     ```bash
     python -m venv venv
     source venv/bin/activate  # En Windows: venv\Scripts\activate
